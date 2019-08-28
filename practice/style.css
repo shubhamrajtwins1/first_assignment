@@ -1,0 +1,156 @@
+body{
+    font-family: 'Averia Serif Libre', cursive;
+}
+.font-awesome{
+    color: #fff;
+    font-size: 40px;
+}
+.image{
+    background-image: url(../Black-Abstract-Mosaic-Pieces-Wallpaper-44419.jpg);
+    width: 100%;
+}
+.wrapper{
+    max-width: 1300px;
+    margin: 0 50px;
+}
+.wrapper_contact{
+    margin: 10px 115px;
+     background: rgb(143, 134, 134);
+    background-image: url(../Black-Abstract-Mosaic-Pieces-Wallpaper-44419.jpg);
+} 
+.wrapper_contact_display_contact1{
+    margin: 255px 140px;
+}
+.header1{
+    height: 30px;
+    width: 300px;
+    background-color: transparent;
+    padding: 8px 8px 8px 8px;
+    
+
+}
+.btn{
+    background: transparent;
+    border: 0;
+}
+.btn a{
+  color: white;
+  font: 1.2em sans-serif;
+}
+.but1{
+    color: white;
+    background-color: rgb(32, 167, 99);
+    width: 180px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+.header1 a{
+    text-decoration: none;
+}
+.header2{
+    height: 30px;
+    width: 262px;
+    border: 0px;
+    padding: 9px;
+    background-color: transparent;
+}
+.header3{
+    height: 20px;
+    width: 250px;
+    border: 1px;
+    padding: 6px;
+    background-color: transparent;
+}
+.display{
+    display: flex;
+    justify-content: space-between;    
+}
+.header4{
+    height: 30px;
+    width: 300px;
+    background-color: transparent;
+    padding: 8px;
+    float: right;
+
+}
+.header4 a{
+    text-decoration: none;
+}
+.icons img{
+    background-color: transparent;
+    width: 20px;
+    height: 40px;
+}
+.contact1{
+    background-image: url(../contact_background3.jpg);
+    background-color: black;
+    
+    width: 559px;
+    height: 820px;
+    color: white;
+    /* font-family:  'Arial Narrow Bold'; */
+    
+}
+.contact2{
+    background-color: white;
+    width: 559px;
+    height: 820px;
+}
+.contact3{
+    background-color: white;
+    border: 50px;
+}
+.form_head{
+    margin: 60px 50px 0px 50px;
+    text-align: center;
+    /* font-family: verdana; */
+    font-size: 30px;
+    
+}
+.table1{
+    margin: 30px 50px 0px 50px;
+    font-family: verdana;
+    padding: 0px;
+    border: lightgray 2px 2px 1px 1px;
+    width: 454px;
+    height: 90px;
+    border-radius: 10px;
+}
+.table1 input{
+    
+    font-family: verdana;
+    padding: 4px;
+    border: solid lightgray 1px;
+    width: 214px;
+    height: 40px;
+    border-radius: 5px;
+}
+.table2{
+    margin: 0px 0px 0px 0px;
+    font-family: verdana;
+    padding: 6px;
+    border:  lightgray 1px;
+    width: 440px;
+    height: 30px;
+}
+
+.paragraph0{
+    color: white;
+    font-family: verdana;
+}
+.paragraph1{
+    color: darkgrey;
+    font-family: verdana;
+}
+.paragraph2{
+    color: green;
+    font-family: verdana;
+}
+.message{
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid rgba(189, 228, 238, 0.329);
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.342)
+}
